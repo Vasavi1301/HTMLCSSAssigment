@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #ffffcc, pink);
+    box-sizing: border-box;
+
+}   
+.box1{
+    position: absolute;
+    top: 24%;
+    right: 75%;
+    bottom: 50%;
+    height: 28%;
+    width: 15%;
+    background: rgb(251, 152, 193);
+   
+  }
+.box2{
+    position: absolute;
+    top: 54%;
+    right: 75%;
+    bottom: 50%;
+    height: 28%;
+    width: 15%;
+    background: rgb(251, 152, 193);
+   
+  }
+  .box3{
+    position: absolute;
+    top: 24%;
+    right: 57%;
+    bottom: 50%;
+    height: 58%;
+    width: 15%;
+    background: rgb(251, 152, 193);
+   
+  }
+  .box4{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    bottom: 50%;
+    height: 30%;
+    width: 30%;
+    background: rgb(248, 108, 108);
+  }
+  .image1{
+    width:100%;
+    height: 100%;
+    background-image:url(images/pexels-rachel-claire-6752433.jpg);
+    background-size: cover ;
+    border-right: 500px ;
+    border-bottom: 400px;
+    background-position: 10%;
+  }
+  .image2{
+    width:100%;
+    height: 100%;
+    background-image:url(images/pexels-eva-bronzini-6141651.jpg);
+    background-size: cover ;
+    border-right: 500px ;
+    border-bottom: 400px;
+    background-position: 10%;
+  }
+  .image3{
+    width:100%;
+    height: 100%;
+    background-image:url(images/pexels-mister-mister-3434523.jpg);
+    background-size: cover ;
+    border-right: 500px ;
+    border-bottom: 400px;
+    background-position: 10%;
+  }
+  h5{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-weight: lighter;
+    letter-spacing: 1px;
+  }
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-size: 45px;
+    letter-spacing: 2px;
+  }
+  button{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    padding-left: 5%;
+    border: 0;
+    background:none;
+  }
+  .box5{
+    position: absolute;
+    top: 87%;
+    left: 15%;
+    bottom: 40%;
+    height: 10%;
+    width: 5%;
+    
+  }
+  .image4{
+    width:100%;
+    height: 100%;
+    background-image:url(images/icons8-arrow-30.png);
+    background-size: cover ;
+    border-right: 500px ;
+    border-bottom: 400px;
+    background-position: 10%;
+  }
+  
